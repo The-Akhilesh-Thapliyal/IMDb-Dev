@@ -11,7 +11,7 @@ export default function About() {
             </p>
 
             <p className="text-justify">
-                In addition to our extensive movie database, we provide a platform for film enthusiasts to connect and share their opinions on the latest releases. Our community section features a forum where you can engage in discussions about your favorite films with like-minded individuals, as well as access reviews and ratings from fellow users. Dedicated sections for movie news and trailers keep you abreast of the latest developments in the cinematic world. Thank you for exploring our website; we trust you'll find enjoyment in perusing our movie database. Feel free to reach out with any feedback or suggestions as we continuously strive to enhance the user experience. Happy browsing!
+                In addition to our extensive movie database, we provide a platform for film enthusiasts to connect and share their opinions on the latest releases. Our community section features a forum where you can engage in discussions about your favorite films with like-minded individuals, as well as access reviews and ratings from fellow users. Dedicated sections for movie news and trailers keep you abreast of the latest developments in the cinematic world. Thank you for exploring our website; we trust you&rsquo;ll find enjoyment in perusing our movie database. Feel free to reach out with any feedback or suggestions as we continuously strive to enhance the user experience. Happy browsing!
             </p>
         </div>
     );
