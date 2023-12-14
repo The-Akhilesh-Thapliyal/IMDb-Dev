@@ -53,4 +53,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 <h2 align="center">Deployment on Vercel</h2>
 Deployed on Vercel, the Next.js and Tailwind CSS-powered IMDb Dev https://imdb-dev.vercel.app/ ensures seamless performance and accessibility. Vercel's robust hosting platform enables quick and hassle-free deployment, providing a reliable and scalable environment for users to explore movie information effortlessly. With Vercel's continuous deployment, updates and improvements are seamlessly integrated, ensuring MovieHub stays current and responsive for users worldwide.
 
+<h2 align="center">🚀 About Me</h2>
 
+Hello, I'm Akhilesh Thapliyal! 👋
+<h2 align="center">Contact</h2>
+
+- **Email:** akhilesh.thedev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/akhilesh-thapliyal
+- **GitHub:** https://github.com/The-Akhilesh-Thapliyal
